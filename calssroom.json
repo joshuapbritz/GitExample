@@ -1,4 +1,5 @@
 {
   "name": "Git Classroom",
-  "age": 99
+  "age": 99,
+  "description": "A classroom for learning Git and GitHub."
 }
