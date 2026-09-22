@@ -1,3 +1,3 @@
 export default function main() {
-  console.log("Hello, World!");
+  log("Goodbye sweet charity");
 }
